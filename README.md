@@ -1,6 +1,5 @@
 ### Olá, Sou Rafael Michel
 
-- 🔭 Hoje trabalho como full stack
 - 🌱 Estudando C#
 
 <div style="display: inline_block"><br>
